@@ -3,6 +3,7 @@
 class Shape{
     area(){
         //code
+        return this.width * this.height
     }
 }
 
